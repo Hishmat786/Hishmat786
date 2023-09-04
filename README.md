@@ -1,3 +1,4 @@
+![logo](https://github.com/Hishmat786/Hishmat786/blob/main/hishmat.png)
 <h1 align="center">Hi 👋, I'm Hishmat Rai</h1>
 <h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
 
