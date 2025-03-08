@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hishmat786" alt="hishmat786" /></a> </p>
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-- 🌱 I’m currently learning **ReactJs, NodeJs, Bootstrap**
+- 🌱 I’m currently learning **Nextjs, Nestjs**
 
 - 💬 Ask me about **java | JavaScript | react | html | CSS | python**
 
